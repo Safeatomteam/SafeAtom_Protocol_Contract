@@ -1,5 +1,5 @@
 # SafeAtom Smart Contract BEP20 Token with RFI and Liquidity fee with a lot of extra functions
-1. Fixed BNB or ETH stuck in contract.
+1. Fixed issue BNB or ETH stuck in contract.
 2. Deleted unused function Deliver.
 3. Added some new features like adding rights to a vote contract to change liquidity fee, RFI fee and SwapAndLiquify trigger value
 4. Added SetRouter function to change v2 Router for future projects.
