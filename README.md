@@ -14,4 +14,4 @@ Version of Node.js 14.17.1.
 4. Before deploying check the constructor of SafeAtom token and change the address of Router v2 to your Testnet Uniswap v2 router or fork. For ETH Testnetworks and Mainnet it is the same 0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D. For BSC Mainnet 0x10ED43C718714eb63d5aA57B78B54704E256024E.
 5. We recomend testing it on Ropsten or Rinkeby testnetworks with Uniswap.
 
-Our Smart Contract address is 0xe57c68F74d7a0d44ab438f0BC2475d012f0718b1 on BSC Mainnet.
+Our Smart Contract address is 0x749BFc20f18F71237790b301727349741868C995 on BSC Mainnet.
